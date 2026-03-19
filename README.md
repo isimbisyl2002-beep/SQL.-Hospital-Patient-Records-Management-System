@@ -3,6 +3,7 @@ Project Overview The Hospital Patient Records Management System is a database pr
 
 This project focuses on designing and implementing a relational database using MySQL to 
 securely store and manage patient records in an efficient and structured way.
+
 Tools Used
 - MySQL
 - SQL (Structured Query Language)
